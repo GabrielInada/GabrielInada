@@ -5,9 +5,8 @@ I'm a passionate developer with a love for creating innovative solutions and exp
 
 ## Skills
 - **Programming Languages:** Kotlin, Python, Java, C
-- **Web Development:** HTML, CSS
 - **Databases:** MySQL, SQLite
-- **Tools & Technologies:** Git
+- **Tools & Technologies:** Git, Android Studio
 
 ## Projects
 Here are a few projects I've worked on:
@@ -26,10 +25,5 @@ I'm always open to collaborating on projects and discussing new ideas. Feel free
 
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInada&layout=compact&theme=radical)
-
-## Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- If you have a blog or write articles, you can link to your latest posts here -->
-<!-- BLOG-POST-LIST:END -->
 
 Thanks for visiting my profile! Have a great day! 😊
