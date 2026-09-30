@@ -4,9 +4,9 @@
 I'm a passionate developer with a love for creating innovative solutions and exploring new technologies. With a background in Native Android Development, I enjoy working on projects that challenge me and help me grow as a developer.
 
 ## Skills
-- **Programming Languages:** Kotlin, Python, Java, C
-- **Databases:** MySQL, SQLite
-- **Tools & Technologies:** Git, Android Studio
+- **Programming Languages:** Kotlin, Python, Java
+- **Databases:** PostgreSQL, SQLite
+- **Tools & Technologies:** Git, Android Studio, Docker, Github (Actions)
 
 ## Projects
 Here are a few projects I've worked on:
@@ -19,11 +19,3 @@ I'm always open to collaborating on projects and discussing new ideas. Feel free
 <!-- - **Email:** [your-email@example.com] -->
 <!-- - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile) -->
 <!-- - **Twitter:** [@yourhandle](https://twitter.com/yourhandle) -->
-
-## GitHub Stats
-![GabrielInada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielInada&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielInada&layout=compact&theme=radical)
-
-Thanks for visiting my profile! Have a great day! 😊
